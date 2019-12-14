@@ -1,0 +1,2 @@
+# Voltcoin
+Cryptocurrency
